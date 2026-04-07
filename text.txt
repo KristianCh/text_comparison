@@ -1,0 +1,240 @@
+D&D PRÍRUČKA PRE HRÁČA    DUNGEONS & DRAGONS®
+Všetko, čo hráč potrebuje na vytvorenie postavy v najväčšej hre na hrdinov na svete
+KAPITOLA 1: POSTAVY KROK ZA KROKOM
+VAŠÍM PRVÝM KROKOM PRI HRANÍ DOBRODRUHA V HRE DUNGEONS & DRAGONS (ďalej len D&D) je predstaviť a vytvoriť si vlastnú postavu. Vaša postava je kombináciou herných štatistík, situácií a vlastnej fantázie. Vyberiete si druh (napríklad človek alebo hobit) a povolanie (napríklad bojovník alebo čarodejník). Taktiež si vymyslite osobnosť, vzhľad a minulosť postavy. Postava vás potom vo svete DUNGEONS & DRAGONS reprezentuje ako avatar.
+Predtým, ako sa ponoríte do kroku 1, popremýšľajte o tom, akého dobrodruha chcete hrať. Môžete byť odvážny bojovník, nenápadný darebák, vášnivý klerik alebo extravagantný čarodejník, no možno vás viac zaujme nekonvenčná postava ako svalnatý darebák, ktorý preferuje boj nablízko, alebo ostreľovač, ktorý nepriateľov zabíja z diaľky. Máte radi fantasy príbehy s trpaslíkmi alebo elfmi? Skúste si vytvoriť postavu jedného z nich. Chcete, aby vaša postava bola najdrsnejším dobrodruhom pri stole? Zvážte povolania ako barbar alebo paladín. Ak neviete, ako začať, pozrite si ilustrácie v tejto knihe a uvidíte, čo vás zaujme.
+Len čo máte predstavu o postave, postupujte podľa jednotlivých krokov a rozhodujte sa podľa toho, čo ju vystihuje. Vaša predstava sa môže vyvinúť s každou voľbou, ktorú urobíte. Dôležité je, aby ste k stolu prišli s postavou, na ktorú sa tešíte.
+V tejto kapitole používame na označenie média, pomocou ktorého sledujete schopnosti svojej postavy, termín „charakterník“, či už ide o oficiálny hárok (ako ten na konci knihy), digitálny záznam alebo list papiera zo zošita. Oficiálny charakterník D&D je dobrým začiatkom, kým nebudete vedieť, aké informácie potrebujete a ako ich využijete počas hry.
+
+VYTVÁRENIE BRUENORA
+Každý krok tvorby postavy obsahuje príklad daného kroku, kde hráč menom Bob vytvára svoju postavu, trpaslíka Bruenora.
+
+1. VYBERTE SI DRUH
+Každá postava patrí k druhu, jednému z mnohých inteligentných humanoidných tvorov vo svete D&D. Najbežnejšie druhy hráčskych postáv sú trpaslíci, elfovia, hobiti a ľudia. Niektoré druhy majú aj poddruhy, ako horský trpaslík alebo lesný elf. Viac informácií o týchto, ako aj o menej rozšírených druhoch ako drakorodený, gnóm, poloelf, poloork a tiefling, poskytuje kapitola 2.
+Druh, ktorý si vyberiete, podstatne prispieva k identite vašej postavy tým, že určuje celkový vzhľad a prirodzené talenty postavy získané z ich kultúry a od predkov. Udeľuje vašej postave určité druhové vlastnosti ako špeciálne zmysly, zručnosť v používaní špecifických zbraní alebo nástrojov, zručnosť v jednej alebo viacerých schopnostiach alebo vlohy na používanie slabších kúziel. Tieto vlastnosti sa niekedy zhodujú s predispozíciami určitých povolaní (krok 2) - napríklad druhové vlastnosti ľahkonohých hobitov z nich robia výnimočných darebákov. Vznešení elfovia zas bývajú mocní čarodejníci. Niekedy však môže byť oveľa zaujímavejšie a zábavnejšie hrať postavu mimo bežnej typológie. Nezvyčajnými, ale zapamätateľnými postavami sú napríklad poloorkskí paladíni a čarodejníci z radov horských trpaslíkov.
+Váš druh tiež zvyšuje jednu alebo viac úrovní vašich vlôh, ktoré si určíte v kroku 3. Všímajte si tieto zmeny a nezabudnite ich neskôr použiť.
+Zaznamenajte si do charakterníka vlastnosti, ktoré vám váš druh udeľuje. Nezabudnite si tiež zaznačiť základnú rýchlosť a jazyky, ktoré na začiatku hry poznáte.
+
+VYTVÁRENIE BRUENORA, KROK 1
+Bob si sadne, aby si vytvoril postavu. Rozhodne sa, že drsný horský trpaslík sa hodí do predstavy toho, čo chce hrať. Do charakterníka si zaznamená všetky druhové vlastnosti trpaslíkov vrátane rýchlosti približne 7,6 metra za kolo a jazykov, ktoré ovláda: spoločný a trpasličí.
+2. VYBERTE SI POVOLANIE
+Každý dobrodruh má isté povolanie. Povolanie všeobecne opisuje úlohu postavy, aké špeciálne talenty má a aké taktiky s najväčšou pravdepodobnosťou použije pri skúmaní temníc, boji s príšerami alebo pri napätom vyjednávaní. Povolania postáv sú opísané v kapitole 3.
+Vaša postava získava z výberu povolania množstvo výhod. Mnohé z nich sú vlastnosti povolaní – schopnosti (vrátane používania mágie), ktoré odlišujú vašu postavu od členov iných povolaní.
+Získate tiež množstvo zručností: vo vašich schopnostiach, s brnením, zbraňami, záchrannými hodmi a niekedy aj nástrojmi.
+Vaše zručnosti definujú mnohé veci, ktoré vaša postava dokáže robiť obzvlášť dobre, od používania určitých zbraní až po presvedčivé klamanie.
+Do charakterníka si zaznamenajte všetky vlastnosti, ktoré vám vaše povolanie dáva na leveli 1.
+
+LEVEL
+Postava zvyčajne začína na leveli 1 a postupuje zažívaním dobrodružstiev a získavaním skúsenostných bodov - XP (anj. experience points). Postava na leveli 1 je neskúsená, hoci mohla byť vojakom alebo pirátom a predtým robila nebezpečné veci. Začiatok na leveli 1 označuje vstup vašej postavy do dobrodružného života. Ak už hru poznáte alebo sa pripájate k existujúcej kampani D&D, váš Majster hry - DM (anj. Dungeon Master) sa môže rozhodnúť, že začnete na vyššom leveli, za predpokladu, že vaša postava už prežila niekoľko strašidelných dobrodružstiev.
+
+RÝCHLA TVORBA
+Každý popis povolania v kapitole 3 obsahuje časť s návrhmi na rýchle vytvorenie postavy daného povolania vrátane toho, ako priradiť najvyššiu úroveň vlohy, ktorý pôvod je vhodný pre dané povolanie a aké si vybrať počiatočné kúzla.
+
+KAPITOLA 3: POVOLANIA
+DOBRODRUHOVIA SÚ MIMORIADNI ĽUDIA, ktorých poháňa túžba po vzrušení v živote, ktorý by si iní nikdy netrúfli viesť.
+Títo hrdinovia túžia objavovať temné zákutia sveta a čeliť výzvam, ktoré by slabšie povahy nezniesli. Povolanie definuje, čo vaša postava dokáže. Zastrešuje viac než len prácu; opisuje poslanie vašej postavy. Formuje spôsob, akým premýšľate o svete a ako s ním interagujete, váš vzťah s inými ľuďmi a silami v multivesmíre. Bojovník sa môže na svet pozerať pragmaticky, z hľadiska stratégie a manévrovania, a seba vnímať len ako pešiaka v oveľa väčšej hre. Kňaz naopak môže sám seba považovať za oddaného služobníka v rozvíjajúcom sa božom pláne alebo v konflikte medzi rôznymi božstvami. Zatiaľ čo bojovník má kontakty v žoldnierskej spoločnosti alebo armáde, kňaz môže poznať množstvo iných kňazov, paladínov a vyznávačov tej istej viery.
+Povolanie vám poskytuje rôzne špeciálne vlastnosti, napríklad bojovníkove majstrovstvo so zbraňami a brnením či čarodejníkove kúzlenie. Na nízkych leveloch vám dá iba dve alebo tri vlastnosti, ale s postupom na vyššie levely ich získavate viac a tie existujúce sa často zlepšujú.
+Každý záznam o povolaní v tejto kapitole obsahuje jej podrobné vysvetlenie a tabuľku sumarizujúcu výhody, ktoré získate na každom leveli.
+Dobrodruhovia niekedy postupujú vo viac ako jednom povolaní. Darebák môže zmeniť životné zameranie a zložiť prísahu paladína. Barbar v sebe môže objaviť skryté vlohy na mágiu a experimentovať s povolaním zaklínača, pričom sa naďalej rozvíja ako barbar. Elfovia sú známi tým, že kombinujú bojové majstrovstvo s magickým výcvikom a postupujú súčasne ako bojovníci aj čarodejníci. Voliteľné pravidlá pre kombinovanie povolaní týmto spôsobom, nazývané multiclassing, (anj. multi = mnoho, class = trieda, v našom prípade povolanie), sa nachádzajú v kapitole 6.
+Dvanásť povolaní – uvedených v Tabuľke povolaní – sa nachádza takmer v každom svete D&D a zahŕňa spektrum typických dobrodruhov.
+POVOLANIA
+Povolanie
+Popis
+Kocka života
+Primárna vloha
+Záchranné hody
+Zručnosti s brnením a zbraňami
+Barbar 
+Neľútostný bojovník primitívneho pôvodu, ktorý sa v boji dokáže rozzúriť
+d12
+Sila
+Sila a Výdrž
+Ľahké a stredne ťažké brnenie, štíty, jednoduché a vojenské zbrane
+Bard
+Inšpiratívny mág, ktorého sila odráža hudbu stvorenia
+d8
+Charizma
+Obratnosť a Charizma
+Ľahké brnenie, jednoduché zbrane, ručné kuše, dlhé meče, kordy, krátke meče
+Bojovník 
+Majster boja, zručný s rôznymi zbraňami a brnením
+d10
+Sila alebo Obratnosť
+Sila a Výdrž
+Všetky typy brnenia, štíty, jednoduché a vojenské zbrane
+Čarodejník 
+Učený používateľ mágie schopný manipulovať so štruktúrami reality
+d6
+Inteligencia
+Inteligencia a Múdrosť
+Dýky, šípky, praky, palice, ľahké kuše
+Černokňažník 
+Nositeľ mágie, ktorú získal po dohode s extraplanárnou entitou
+d8
+Charizma
+Múdrosť a Charizma
+Ľahké brnenie, jednoduché zbrane
+Darebák 
+Ničomník, ktorý používa nenápadnosť a triky na prekonanie prekážok a porazenie nepriateľov
+d8
+Obratnosť
+Obratnosť a Inteligencia
+Ľahké brnenie, jednoduché zbrane, ručné kuše, dlhé meče, kordy, krátke meče
+Druid
+Kňaz Starej viery, ovládajúci sily prírody - mesačné svetlo a rast rastlín, oheň a blesky - so schopnosťou premieňať sa na zvieratá
+d8
+Múdrosť
+Inteligencia a Múdrosť
+Ľahké a stredne ťažké brnenie (nekovové), štíty (nekovové), kyjaky, dýky, šípky, oštepy, palcáty, palice, šable, kosáky, praky, kopije
+Klerik 
+Kňazský šampión, ktorý ovláda božskú mágiu v službách vyššej moci
+d8
+Múdrosť
+Múdrosť a Charizma
+Ľahké a stredne ťažké brnenie, štíty, jednoduché zbrane
+Lesník//Hraničiar 
+Bojovník, ktorý používa zbrane a prírodnú mágiu na boj proti hrozbám na okraji civilizácie
+d10
+Obratnosť a Múdrosť
+Sila a Obratnosť
+Ľahké a stredné brnenie, štíty, jednoduché a vojenské zbrane
+Mních 
+Majster bojových umení, využívajúci silu tela v snahe o fyzickú a duchovnú dokonalosť
+d8
+Obratnosť a Múdrosť
+Sila a Obratnosť
+Jednoduché zbrane, krátke meče
+Paladín 
+Svätý bojovník viazaný posvätnou prísahou
+d10
+Sila a Charizma
+Múdrosť a Charizma
+Všetky typy brnenia, štíty, jednoduché a vojnové/vojenské zbrane
+Zaklínač 
+Mág, ktorý čerpá mágiu z vrodeného talentu alebo krvnej línie
+d6
+Charizma
+Výdrž a Charizma
+Dýky, šípky, praky, palice, ľahké kuše
+
+
+INŠPIRÁCIA
+Inšpirácia je pravidlo, ktorým vás môže DM odmeniť za hranie vašej postavy spôsobom, ktorý je verný jej osobnostným črtám, ideálom, spojenectvám a chybám.
+Použitím inšpirácie môžete čerpať zo svojich osobnostných čŕt, napríklad súcitu s utláčanými, aby ste získali výhodu pri vyjednávaní so žobráckym princom. Inšpirácia vám tiež môže umožniť obrátiť sa na svojho spojenca pri obrane rodnej dediny, aby ste prekonali účinok kúzla, ktoré na vás bolo uvalené.
+
+ZÍSKANIE INŠPIRÁCIE
+Váš DM vám môže dať inšpiráciu z rôznych dôvodov. Zvyčajne ju udeľuje, keď prejavíte svoje osobnostné črty, poddáte sa nevýhodám, ktoré predstavuje vaša osobnostná chyba alebo spojenectvá, alebo inak stvárňujete svoju postavu presvedčivým spôsobom. DM vám povie, ako ju získať.
+Inšpiráciu buď máte, alebo nemáte – nemôžete si nahromadiť viacero „inšpirácií“ na neskoršie použitie. 
+
+POUŽÍVANIE INŠPIRÁCIE
+Ak máte inšpiráciu, môžete ju minúť, získať tým výhodu a použiť ju pri útoku, záchrannom hode alebo pri využití vlôh/schopností.
+Okrem toho, ak máte inšpiráciu, môžete odmeniť iného hráča za dobré hranie role, šikovné myslenie alebo jednoducho za to, že v hre urobil niečo vzrušujúce. Keď iná hráčska postava urobí niečo, čo skutočne prispieva k príbehu zábavným a zaujímavým spôsobom, môžete sa svojej inšpirácie vzdať, aby ste jej poskytli výhodu.
+
+PÔVOD
+Každý príbeh má začiatok. Pôvod vašej postavy odhaľuje vaše miesto vo svete, odkiaľ ste prišli a ako ste sa stali dobrodruhom.
+Váš bojovník mohol byť odvážny rytier alebo vetrom ošľahaný vojak. Váš čarodejník mohol byť mudrc alebo remeselník. Váš darebák sa mohol presadiť ako zlodej v cechu alebo ovládať publikum ako šašo.
+Výber pôvodu poskytuje dôležité príbehové vodidlá o identite vašej postavy. Najdôležitejšia otázka, ktorú si treba položiť o vašom pôvode znie, čo sa zmenilo? Prečo ste prestali robiť to, čo váš pôvod opisuje, a začali ste sa vydávať na dobrodružstvá? Kde ste vzali peniaze na kúpu výstroja, alebo, ak pochádzate z bohatého prostredia, prečo ich nemáte viac? Ako ste získali schopnosti svojho povolania? Čo vás odlišuje od bežných ľudí s rovnakým pôvodom, ako máte vy?
+
+TIKA A ARTEMIS: PÔVOD
+Tika Waylan a Artemis Entreri prežili svoje najranejšie roky ako pouliční šarlatáni. Tikina neskoršia kariéra barmanky ju v skutočnosti nezmenila, takže si mohla vybrať šarlatánsky pôvod, získať zručnosti v schopnostiach ako Šikovnosť a Nenápadnosť a naučiť sa pracovať s nástrojmi zlodejského remesla. Artemisa viac definuje jeho kriminálna minulosť, kvôli ktorej získal zručnosť v Podvádzaní a Nenápadnosti, ako aj v ovládaní zlodejských nástrojov a jedov.
+
+Ukážky pôvodov v tejto kapitole poskytujú konkrétne výhody (vlastnosti, zručnosti a jazyky) a návrhy na hranie rolí.
+
+ZRUČNOSTI
+Každý pôvod dáva postave zručnosť v dvoch schopnostiach. Schopnosti sú opísané v kapitole 7.
+Okrem toho väčšina pôvodov poskytuje postave zručnosť s jedným alebo viacerými nástrojmi. Nástroje a zručnosti s nimi sú podrobne opísané v kapitole 5. Ak by postava získala rovnakú zručnosť z dvoch rôznych zdrojov, môže si namiesto toho zvoliť inú zručnosť rovnakého druhu (schopnosť alebo nástroj).
+
+JAZYKY
+Niektoré pôvody umožňujú postavám aj naučiť sa ďalšie jazyky okrem tých, ktoré vychádzajú z druhu. Pozri časť „Jazyky“ vyššie v tejto kapitole.
+
+VYBAVENIE
+Každý pôvod poskytuje balíček prvotného vybavenia. Ak použijete voliteľné pravidlo z kapitoly 5 na minutie mincí na vybavenie, štartovacie vybavenie z pôvodu nedostanete.
+
+NAVRHOVANÉ CHARAKTERISTIKY
+Pôvod obsahuje navrhované osobné vlastnosti, ktoré sú na ňom založené. Môžete si vlastnosti vybrať, hodiť kockami, aby ste si ich určili náhodne alebo použiť návrhy ako inšpiráciu pre vlastné vlastnosti.
+
+PRISPÔSOBENIE PÔVODU
+Možno budete chcieť niektoré vlastnosti z pôvodu upraviť, aby lepšie zodpovedali vašej postave alebo prostrediu kampane. Ak chcete prispôsobiť pôvod, môžete nahradiť jednu vlastnosť ľubovoľnou inou, vybrať si dve ľubovoľné schopnosti a až dve zručnosti v používaní nástrojov alebo jazyky zo vzorových pôvodov. Môžete použiť balíček vybavenia zo svojho pôvodu alebo na vybavenie minúť mince, ako je popísané v kapitole 5. (Ak miniete mince, nemôžete si zároveň vziať balíček vybavenia navrhnutý pre vaše povolanie.) Nakoniec si vyberte dve osobnostné črty, jeden ideál, jedno spojenectvo a jednu osobnostnú chybu. Ak nenájdete vlastnosť, ktorá zodpovedá vášmu želanému pôvodu, spolupracujte so svojím DM a vytvorte novú.
+
+KAPITOLA 6: MOŽNOSTI PRISPÔSOBENIA
+KOMBINÁCIA ÚROVNÍ VLÔH, DRUHU, povolania a pôvodu definuje predispozície vašej postavy v hre a špecifické detaily, ktoré si vytvoríte, odlišujú vašu postavu od všetkých ostatných. Aj v rámci vášho povolania a druhu máte možnosti doladiť, čo všetko vaša postava dokáže. Táto kapitola je však určená pre hráčov, ktorí – s povolením DMa – chcú ísť o krok ďalej.
+Táto kapitola definuje dve voliteľné pravidlá pre prispôsobenie vašej postavy: kombinovanie povolaní - anj. multiclassing a špecifické znalosti.
+Multiclassing vám umožňuje kombinovať povolania a špecifické znalosti zahŕňajú nové schopnosti, ktoré si môžete vybrať namiesto zvyšovania úrovne vlohy s rastúcimi levelmi. Váš DM rozhoduje, či sú tieto možnosti v kampani dostupné.
+	
+MULTICLASSING
+Multiclassing vám umožňuje získavať levely vo viacerých povolaniach. Tým dokážete kombinovať schopnosti povolaní, aby ste vytvorili koncept postavy, ktorý nemusí odrážať jedna zo štandardných možností.
+Vďaka tomuto pravidlu máte možnosť získať level v novom povolaní namiesto aktuálneho vždy, keď postúpite na vyšší level. Levely vo všetkých vašich povolaniach sa sčítajú, aby sa určil celkový level vašej postavy. Ak máte napríklad tri levely v čarodejníkovi a dva v bojovníkovi, ste postavou levelu 5.
+Ako postupujete v leveloch, môžete zostať predovšetkým členom svojho pôvodného povolania s niekoľkými levelmi v inom  alebo môžete úplne zmeniť zameranie a nikdy sa neobzrieť späť na povolanie, ktoré ste opustili. Môžete dokonca začať postupovať v treťom alebo štvrtom. V porovnaní s postavou s jedným povolaním rovnakého levelu obetujete zameranie výmenou za všestrannosť.
+
+PRÍKLAD NA MULTICLASSING
+Gary hrá bojovníka levelu 4. Keď jeho postava získa dostatok XP na dosiahnutie levelu 5, Gary sa rozhodne, že jeho postava použije multiclassing namiesto toho, aby pokračovala ako bojovník. Garyho bojovník trávil veľa času s Daveovým darebákom a dokonca robil aj nejaké vedľajšie práce pre miestny cech zlodejov ako vymáhač. Rozhodne sa preto, že jeho postava skombinuje povolanie bojovníka s darebákom, a tak sa jeho postava stane bojovníkom levelu 4 a darebákom levelu 1 (zapísané ako bojovník 4/darebák 1).
+Keď Garyho postava získa dostatok XP na dosiahnutie levelu 6, môže sa rozhodnúť, či si pridá ďalší level bojovníka (stane sa bojovníkom 5/darebákom 1), ďalší level darebáka (stane sa bojovníkom 4/darebákom 2) alebo level v treťom povolaní, možno sa stane vďaka zväzku tajomných vedomosti, ktoré získal, čarodejníkom (stane sa bojovníkom 4/darebákom 1/čarodejníkom 1).
+PREDPOKLADY
+Aby ste sa kvalifikovali do nového povolania, musíte splniť predpoklady na úroveň vlôh pre vaše súčasné aj nové povolanie, ako je uvedené v tabuľke predpokladov pre multiclassing. Ak sa napríklad barbar rozhodne skombinovať svoje povolanie s povolaním druid, musí mať úroveň Sily aj Múdrosti 13 alebo vyššie. Bez plného výcviku, ktorý dostáva začínajúca postava, musíte byť v novom povolaní šikovným študentom a mať predpoklady, ktoré sa odráža vo vyššej ako priemernej úrovni vlohy.
+PREDPOKLADY PRE MULTIKLASOVANIE
+Trieda  Minimálna úroveň vlohy
+Barbar  Sila 13
+Bard  Charizma 13
+Bojovník  Sila 13 alebo Obratnosť 13
+Čarodejník  Inteligencia 13
+Černokňažník  Charizma 13
+Darebák  Obratnosť 13
+Druid  Múdrosť 13
+Klerik  Múdrosť 13
+Lesník Obratnosť 13 a Múdrosť 13
+Mních  Obratnosť 13 a Múdrosť 13
+Paladín  Sila 13 a Charizma 13
+Zaklínač  Charizma 13
+
+SKÚSENOSTNÉ BODY (XP)
+Cena XP na získanie levelu je vždy založená na celkovom leveli vašej postavy podľa tabuľky Postupu postavy v kapitole 1, nie na vašom leveli v konkrétnom povolaní. Takže, ak ste klerik 6/bojovník 1, musíte získať dostatok XP na dosiahnutie levelu 8, kým si môžete vziať druhý level ako bojovník alebo siedmy level ako klerik.
+
+BODY ŽIVOTA (HP) A KOCKY ŽIVOTA
+Body života získate z vášho nového povolania tak, ako v akomkoľvek leveli po prvom. Body života v leveli 1 získate iba vtedy, keď ste postavou v prvom leveli.
+Kocky života udelené všetkými vašimi triedami sčítate, aby ste si vytvorili ich zásobu. Ak máte kocky života rovnakého typu, môžete ich jednoducho spojiť.
+Bojovník aj paladín, napríklad, majú kocku d10, takže ak ste paladín 5/bojovník 5, máte desať kociek života d10. Ak vám vaše triedy dávajú kocky života rôznych typov, zaznamenávajte si ich samostatne, konkrétne, ako paladín 5/klerik 5 máte päť kociek života d10 a päť kociek života d8.
+
+BONUS ZA ZRUČNOSŤ
+Váš bonus za zručnosť je vždy založený na celkovom leveli vašej postavy podľa tabuľky Postupu postavy v kapitole 1, nie podľa vášho levelu v konkrétnom povolaní. To znamená, že ako bojovník 3/darebák 2 máte bonus za zručnosť postavy levelu 5, takže +3.
+
+KAPITOLA 7: POUŽÍVANIE ÚROVNE VLÔH
+ŠESŤ VLÔH POSKYTUJE STRUČNÝ POPIS fyzických a mentálnych charakteristík každého tvora:
+Sila, meranie fyzickej sily
+Obratnosť, meranie svižnosti
+Výdrž, meranie vytrvalosti
+Inteligencia, meranie uvažovania a pamäte
+Múdrosť, meranie vnímania a intuície
+Charizma, meranie sily osobnosti 
+Je postava svalnatá a bystrá? Múdra a šarmantná? Svižná a odolná? Úrovne vlôh definujú tieto kvality, ako aj slabé stránky tvora.
+Tri hlavné hody hry – pri využití vlôh/schopností, záchranný hod a hod na útok – sa spoliehajú na šesť hodov na úroveň vlohy. Úvod knihy opisuje základné pravidlo, ktoré sa za týmito hodmi skrýva: hoďte kockou d20, pridajte modifikátor vlohy odvodený z jedného z prvotných šiestich hodov a porovnajte celkový výsledok s cieľovým číslom.
+Táto kapitola sa zameriava na to, ako používať vlohy/schopnosti a záchranné hody, a pokrýva základné činnosti, o ktoré sa tvory v hre pokúšajú. Pravidlá pre hody na útok nájdete v kapitole 9.
+
+ÚROVEŇ VLÔH A MODIFIKÁTORY
+Každá vaša vloha má úroveň, číslo, ktoré definuje jej veľkosť. Úroveň vlohy nie je len mierou vrodených schopností, ale zahŕňa aj výcvik a kompetencie tvora v činnostiach, ktoré s touto vlohou súvisia.
+Úroveň 10 alebo 11 popisujú bežný ľudský priemer, ale vlohy dobrodruhov a mnohých príšer sú väčšinou o stupeň nad priemerom. Úroveň 18 je najvyššia, ktorú človek zvyčajne dosiahne. Dobrodruhovia môžu mať až úroveň 20 a príšery a božské bytosti až 30.
+Každá vloha má tiež modifikátor odvodený od úrovne v rozmedzí od - 5 (pre úroveň 1) do + 10 (pre úroveň 30). Tabuľka Úroveň vlôh a modifikátory uvádza modifikátory vlôh pre ich možný rozsah od 1 do 30.
+
+ÚROVEŇ VLÔH A MODIFIKÁTORY
+Úroveň  Modifikátor	Úroveň  Modifikátor
+1  	- 5  		16-17 	+3
+2-3  	-4 		18-19 	+4
+4-5 	- 3  		20-21  	+5
+6-7  	- 2  		22-23 	+6
+8-9 	 -1 		24-25 	+7
+10-11  	+0 		26-27 	+8
+12-13 	+1 		28-29 	+9
+14-15 	+2 		30 	+10
+Ak chcete určiť modifikátor vlohy bez konzultácie s tabuľkou, odčítajte 10 od úrovne vlohy a vydeľte súčet číslom 2 (zaokrúhlite nadol). Modifikátory vlôh sa v hre objavujú častejšie ako ich priradené úrovne, pretože ovplyvňujú takmer každý hod na útok, využitie vlohy/ schopnosti a záchranný hod.
+
+VÝHODA A NEVÝHODA
+Niekedy vám špeciálna schopnosť alebo kúzlo povie, že máte pri využití vlohy/schopnosti, záchrannom hode alebo hode na útok výhodu alebo nevýhodu. V tom prípade hodíte dvoma kockami d20 a použijete vyšší z dvoch hodov pri výhode a nižší pri nevýhode. Napríklad, ak máte nevýhodu a hodíte 17 a 5, použijete 5, ak naopak výhodu, použijete 17.
+Ak hod ovplyvňuje viac situácií a každá z nich poskytuje výhodu alebo nevýhodu, nehodíte viac ako o jednu ďalšiu d20, teda aj keď dve priaznivé situácie poskytnú výhodu, stále hádžeme iba dvoma kockami d20.
+Ak okolnosti spôsobia, že hod má výhodu aj nevýhodu, situácie sa vynulujú a hodíte jednou d20. To platí aj v prípade, že viacero okolností spôsobí nevýhodu a jedna poskytne výhodu alebo naopak. V takejto situácii nemáte ani výhodu, ani nevýhodu.
+Ak máte výhodu alebo nevýhodu a niečo v hre, ako hobitia vlastnosť Šťastie, vám umožňuje prehodiť d20, môžete prehodiť iba jednu z dvoch kociek. Vy si vyberiete, ktorú. Ak má teda hobit výhodu pri hode na využitie vlohy/schopnosti a hodí 1 a 13, mohol by Šťastie použiť na prehodenie 1.
+Výhodu alebo nevýhodu zvyčajne získate použitím špeciálnych schopností, akcií alebo kúziel. Inšpirácia (kapitola 4) môže postave pri hodoch súvisiacich s jej osobnosťou, ideálmi alebo spojenectvami tiež poskytnúť výhodu. Prípadne môže DM vyhlásiť, že okolnosti ovplyvňujú hod tým, že ho uľahčujú alebo sťažujú, a preto udeľujú výhodu alebo nevýhodu.
+
+BONUS ZA ZRUČNOSŤ
+Bonus za zručnosť majú postavy určený levelom, ako podrobne popisuje kapitola 1. Príšery majú tento bonus zahrnutý v ich charakterníkoch tiež. Bonus sa používa v pravidlách pre hody pri využití vlôh/schopnosti, na útok a záchranné hody.
+Váš bonus sa nedá pripočítať ku konkrétnemu hodu kockou alebo inému číslu viac ako raz. Ak teda dve rôzne pravidlá hovoria, že môžete pridať bonus k záchrannému hodu na Múdrosť, pripočítate ho iba raz. Občas sa váš bonus za zručnosť môže vynásobiť alebo vydeliť (zdvojnásobiť alebo znížiť na polovicu), predtým, ako ho použijete. Vlastnosť darebáka Odbornosť napríklad zdvojnásobí bonus za zručnosť pre určité hody pri využití vlôh/schopností. Ak okolnosti naznačujú, že váš bonus za zručnosť sa uplatňuje viackrát na ten istý hod, stále ho pripočítate a vynásobíte alebo vydelíte iba raz.
+Rovnako, ak vám vlastnosť alebo efekt umožňuje vynásobiť váš bonus za zručnosť pri využití vlohy/schopnosti, na ktorú by ste ho normálne mať nemali, nepripočítavate ho. Pre danú vlohu je váš bonus 0, vzhľadom na to, že vynásobenie 0 akýmkoľvek číslom sa stále rovná 0. Ak vám teda chýba zručnosť v Histórii, nezískate žiadnu výhodu z efektu, ktorý vám umožňuje zdvojnásobiť váš bonus pri hode na využite Inteligencie (Histórie).
+Vo všeobecnosti nenásobíte svoj bonus za zručnosť pri hodoch na útok alebo záchranných hodoch. Ak vám to nejaká vlastnosť alebo efekt umožňuje, platia rovnaké pravidlá.
