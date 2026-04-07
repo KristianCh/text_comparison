@@ -127,7 +127,7 @@ Váš DM vám môže dať inšpiráciu z rôznych dôvodov. Zvyčajne ju udeľuj
 Inšpiráciu buď máte, alebo nemáte – nemôžete si nahromadiť viacero „inšpirácií“ na neskoršie použitie. 
 
 POUŽÍVANIE INŠPIRÁCIE
-Ak máte inšpiráciu, môžete ju minúť, získať tým výhodu a použiť ju pri útoku, záchrannom hode alebo pri využití vlôh/schopností.
+Ak máte inšpiráciu, môžete ju minúť, získať tým výhodu a použiť ju pri útoku, záchrannom hode alebo pri využití vlôh.
 Okrem toho, ak máte inšpiráciu, môžete odmeniť iného hráča za dobré hranie role, šikovné myslenie alebo jednoducho za to, že v hre urobil niečo vzrušujúce. Keď iná hráčska postava urobí niečo, čo skutočne prispieva k príbehu zábavným a zaujímavým spôsobom, môžete sa svojej inšpirácie vzdať, aby ste jej poskytli výhodu.
 
 PÔVOD
@@ -206,8 +206,8 @@ Inteligencia, meranie uvažovania a pamäte
 Múdrosť, meranie vnímania a intuície
 Charizma, meranie sily osobnosti 
 Je postava svalnatá a bystrá? Múdra a šarmantná? Svižná a odolná? Úrovne vlôh definujú tieto kvality, ako aj slabé stránky tvora.
-Tri hlavné hody hry – pri využití vlôh/schopností, záchranný hod a hod na útok – sa spoliehajú na šesť hodov na úroveň vlohy. Úvod knihy opisuje základné pravidlo, ktoré sa za týmito hodmi skrýva: hoďte kockou d20, pridajte modifikátor vlohy odvodený z jedného z prvotných šiestich hodov a porovnajte celkový výsledok s cieľovým číslom.
-Táto kapitola sa zameriava na to, ako používať vlohy/schopnosti a záchranné hody, a pokrýva základné činnosti, o ktoré sa tvory v hre pokúšajú. Pravidlá pre hody na útok nájdete v kapitole 9.
+Tri hlavné hody hry – pri využití vlôh, záchranný hod a hod na útok – sa spoliehajú na šesť hodov na úroveň vlohy. Úvod knihy opisuje základné pravidlo, ktoré sa za týmito hodmi skrýva: hoďte kockou d20, pridajte modifikátor vlohy odvodený z jedného z prvotných šiestich hodov a porovnajte celkový výsledok s cieľovým číslom.
+Táto kapitola sa zameriava na to, ako používať vlohy a záchranné hody, a pokrýva základné činnosti, o ktoré sa tvory v hre pokúšajú. Pravidlá pre hody na útok nájdete v kapitole 9.
 
 ÚROVEŇ VLÔH A MODIFIKÁTORY
 Každá vaša vloha má úroveň, číslo, ktoré definuje jej veľkosť. Úroveň vlohy nie je len mierou vrodených schopností, ale zahŕňa aj výcvik a kompetencie tvora v činnostiach, ktoré s touto vlohou súvisia.
@@ -224,17 +224,23 @@ Každá vloha má tiež modifikátor odvodený od úrovne v rozmedzí od - 5 (pr
 10-11  	+0 		26-27 	+8
 12-13 	+1 		28-29 	+9
 14-15 	+2 		30 	+10
-Ak chcete určiť modifikátor vlohy bez konzultácie s tabuľkou, odčítajte 10 od úrovne vlohy a vydeľte súčet číslom 2 (zaokrúhlite nadol). Modifikátory vlôh sa v hre objavujú častejšie ako ich priradené úrovne, pretože ovplyvňujú takmer každý hod na útok, využitie vlohy/ schopnosti a záchranný hod.
+Ak chcete určiť modifikátor vlohy bez konzultácie s tabuľkou, odčítajte 10 od úrovne vlohy a vydeľte súčet číslom 2 (zaokrúhlite nadol). Modifikátory vlôh sa v hre objavujú častejšie ako ich priradené úrovne, pretože ovplyvňujú takmer každý hod na útok, využitie vlohy a záchranný hod.
 
 VÝHODA A NEVÝHODA
-Niekedy vám špeciálna schopnosť alebo kúzlo povie, že máte pri využití vlohy/schopnosti, záchrannom hode alebo hode na útok výhodu alebo nevýhodu. V tom prípade hodíte dvoma kockami d20 a použijete vyšší z dvoch hodov pri výhode a nižší pri nevýhode. Napríklad, ak máte nevýhodu a hodíte 17 a 5, použijete 5, ak naopak výhodu, použijete 17.
+Niekedy vám špeciálna schopnosť alebo kúzlo povie, že máte pri využití vlohy, záchrannom hode alebo hode na útok výhodu alebo nevýhodu. V tom prípade hodíte dvoma kockami d20 a použijete vyšší z dvoch hodov pri výhode a nižší pri nevýhode. Napríklad, ak máte nevýhodu a hodíte 17 a 5, použijete 5, ak naopak výhodu, použijete 17.
 Ak hod ovplyvňuje viac situácií a každá z nich poskytuje výhodu alebo nevýhodu, nehodíte viac ako o jednu ďalšiu d20, teda aj keď dve priaznivé situácie poskytnú výhodu, stále hádžeme iba dvoma kockami d20.
 Ak okolnosti spôsobia, že hod má výhodu aj nevýhodu, situácie sa vynulujú a hodíte jednou d20. To platí aj v prípade, že viacero okolností spôsobí nevýhodu a jedna poskytne výhodu alebo naopak. V takejto situácii nemáte ani výhodu, ani nevýhodu.
-Ak máte výhodu alebo nevýhodu a niečo v hre, ako hobitia vlastnosť Šťastie, vám umožňuje prehodiť d20, môžete prehodiť iba jednu z dvoch kociek. Vy si vyberiete, ktorú. Ak má teda hobit výhodu pri hode na využitie vlohy/schopnosti a hodí 1 a 13, mohol by Šťastie použiť na prehodenie 1.
+Ak máte výhodu alebo nevýhodu a niečo v hre, ako hobitia vlastnosť Šťastie, vám umožňuje prehodiť d20, môžete prehodiť iba jednu z dvoch kociek. Vy si vyberiete, ktorú. Ak má teda hobit výhodu pri hode na využitie vlohy a hodí 1 a 13, mohol by Šťastie použiť na prehodenie 1.
 Výhodu alebo nevýhodu zvyčajne získate použitím špeciálnych schopností, akcií alebo kúziel. Inšpirácia (kapitola 4) môže postave pri hodoch súvisiacich s jej osobnosťou, ideálmi alebo spojenectvami tiež poskytnúť výhodu. Prípadne môže DM vyhlásiť, že okolnosti ovplyvňujú hod tým, že ho uľahčujú alebo sťažujú, a preto udeľujú výhodu alebo nevýhodu.
 
 BONUS ZA ZRUČNOSŤ
-Bonus za zručnosť majú postavy určený levelom, ako podrobne popisuje kapitola 1. Príšery majú tento bonus zahrnutý v ich charakterníkoch tiež. Bonus sa používa v pravidlách pre hody pri využití vlôh/schopnosti, na útok a záchranné hody.
-Váš bonus sa nedá pripočítať ku konkrétnemu hodu kockou alebo inému číslu viac ako raz. Ak teda dve rôzne pravidlá hovoria, že môžete pridať bonus k záchrannému hodu na Múdrosť, pripočítate ho iba raz. Občas sa váš bonus za zručnosť môže vynásobiť alebo vydeliť (zdvojnásobiť alebo znížiť na polovicu), predtým, ako ho použijete. Vlastnosť darebáka Odbornosť napríklad zdvojnásobí bonus za zručnosť pre určité hody pri využití vlôh/schopností. Ak okolnosti naznačujú, že váš bonus za zručnosť sa uplatňuje viackrát na ten istý hod, stále ho pripočítate a vynásobíte alebo vydelíte iba raz.
-Rovnako, ak vám vlastnosť alebo efekt umožňuje vynásobiť váš bonus za zručnosť pri využití vlohy/schopnosti, na ktorú by ste ho normálne mať nemali, nepripočítavate ho. Pre danú vlohu je váš bonus 0, vzhľadom na to, že vynásobenie 0 akýmkoľvek číslom sa stále rovná 0. Ak vám teda chýba zručnosť v Histórii, nezískate žiadnu výhodu z efektu, ktorý vám umožňuje zdvojnásobiť váš bonus pri hode na využite Inteligencie (Histórie).
+Bonus za zručnosť majú postavy určený levelom, ako podrobne popisuje kapitola 1. Príšery majú tento bonus zahrnutý v ich charakterníkoch tiež. Bonus sa používa v pravidlách pre hody na využitie vlôh, na útok a záchranné hody.
+Váš bonus sa nedá pripočítať ku konkrétnemu hodu kockou alebo inému číslu viac ako raz. Ak teda dve rôzne pravidlá hovoria, že môžete pridať bonus k záchrannému hodu na Múdrosť, pripočítate ho iba raz. Občas sa váš bonus za zručnosť môže vynásobiť alebo vydeliť (zdvojnásobiť alebo znížiť na polovicu), predtým, ako ho použijete. Vlastnosť darebáka Odbornosť napríklad zdvojnásobí bonus za zručnosť pre určité hody pri využití schopností. Ak okolnosti naznačujú, že váš bonus za zručnosť sa uplatňuje viackrát na ten istý hod, stále ho pripočítate a vynásobíte alebo vydelíte iba raz.
+Rovnako, ak vám vlastnosť alebo efekt umožňuje vynásobiť váš bonus za zručnosť pri využití vlohy, na ktorú by ste ho normálne mať nemali, nepripočítavate ho. Pre danú vlohu je váš bonus 0, vzhľadom na to, že vynásobenie 0 akýmkoľvek číslom sa stále rovná 0. Ak vám teda chýba zručnosť v Histórii, nezískate žiadnu výhodu z efektu, ktorý vám umožňuje zdvojnásobiť váš bonus pri využití vlohy na Inteligenciu (História).
 Vo všeobecnosti nenásobíte svoj bonus za zručnosť pri hodoch na útok alebo záchranných hodoch. Ak vám to nejaká vlastnosť alebo efekt umožňuje, platia rovnaké pravidlá.
+
+DONE, vymazať, legenda: (možnosti), nepoužité slová
+Ability – vloha (nadanie/danosť/vlastnosť/schopnosť?)			- Skill – schopnosť (zručnosť?)
+Proficiency – zručnosť (zdatnosť?), Proficiency bonus – bonus za ...		- Trait – vlastnosť
+Ability score increase – zvýšenie úrovne/hodnoty ...			- Experience – skúsenosť
+Feat – (???????/osobnostná črta/talent/znak?/špecifická znalosť)
